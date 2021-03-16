@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="136" started-at="2021-01-10T20:46:08Z" finished-at="2021-01-10T20:46:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="136" started-at="2021-01-10T20:46:08Z" finished-at="2021-01-10T20:46:08Z">
+      <class name="com.automate.JavaStreams">
+        <test-method status="PASS" signature="streamCollect()[pri:0, instance:com.automate.JavaStreams@53b32d7]" name="streamCollect" duration-ms="100" started-at="2021-01-11T02:16:08Z" finished-at="2021-01-11T02:16:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- streamCollect -->
+      </class> <!-- com.automate.JavaStreams -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
